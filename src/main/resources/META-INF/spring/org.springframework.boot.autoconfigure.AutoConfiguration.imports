@@ -1,0 +1,4 @@
+com.supercode.framework.config.WebAutoConfiguration
+com.supercode.framework.api.validator.ValidatorConfig
+com.supercode.framework.config.openapi.SwaggerConfig
+#com.supercode.framework.config.IpDetailConfiguration

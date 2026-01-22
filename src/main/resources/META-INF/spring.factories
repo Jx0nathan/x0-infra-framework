@@ -1,0 +1,9 @@
+org.springframework.boot.SpringApplicationRunListener=\
+com.supercode.framework.log.listener.LoggingApplicationRunListener,\
+  com.supercode.framework.config.PlatformConfigurationListener
+
+org.springframework.context.ApplicationListener=\
+com.supercode.framework.log.listener.LoggingLevelInitializeApplicationListener
+
+#org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+#com.supercode.framework.config.IpDetailConfiguration
